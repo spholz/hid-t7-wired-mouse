@@ -14,7 +14,7 @@
 #include <linux/hid.h>
 #include <linux/module.h>
 
-#define USB_VENDOR_ID_258A			0x6a88
+#define USB_VENDOR_ID_258A			0x258a
 #define USB_DEVICE_ID_258A_1007		0x1007
 
 /*
